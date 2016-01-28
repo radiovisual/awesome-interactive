@@ -5,7 +5,7 @@ Below is a list of awesome and inspiring interactive experiences. This list is a
 
 *If you would like to see something added to this list. Please [send a pull request](https://github.com/radiovisual/awesome-interactive/pulls), or [open an issue](https://github.com/radiovisual/awesome-interactive/issues).* 
 
-## Inspirational WebGL & Interactive
+## Inspirational WebGL & Canvas
 
 ### Immersive Experiences
 
@@ -19,6 +19,10 @@ Below is a list of awesome and inspiring interactive experiences. This list is a
 - [motion graphic typeface #1](http://codepen.io/ara_node/pen/nuJCG) by ara
 - [motion graphic typeface #2](http://codepen.io/ara_node/pen/EwfpL) by ara
 - [30,000 Particles](http://codepen.io/soulwire/pen/Ffvlo) by Justin Windle
+
+## Inspirational Flash
+
+- [Digital Toy1 : Missing Link](http://roxik.com/v/5/) by Roxik
 
 ## Awesome Interactive Developers
 
