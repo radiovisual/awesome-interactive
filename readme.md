@@ -11,10 +11,10 @@ A curated list of awesome interactive web experiences and resources
 
 ## Codepens
 
-- [Particles by Antonis Kamamis](http://codepen.io/antoniskamamis/pen/ECrKd)
-- [01 motion graphic typeface by ara](http://codepen.io/ara_node/pen/nuJCG)
-- [02 motion graphic typeface by ara](http://codepen.io/ara_node/pen/EwfpL)
-- [30,000 Particles by Justin Windle](http://codepen.io/soulwire/pen/Ffvlo)
+- [Particles](http://codepen.io/antoniskamamis/pen/ECrKd) by Antonis Kamamis
+- [motion graphic typeface #1](http://codepen.io/ara_node/pen/nuJCG) by ara
+- [motion graphic typeface #2](http://codepen.io/ara_node/pen/EwfpL) by ara
+- [30,000 Particles](http://codepen.io/soulwire/pen/Ffvlo) by Justin Windle
 
 ## Awesome Interactive Developers
 
@@ -25,7 +25,7 @@ A curated list of awesome interactive web experiences and resources
 - [mr.doob](http://mrdoob.com/)
 - [Yugo Nakamura](http://www.yugop.com/)
 - [GrgrDvrt](http://grgrdvrt.com/)
-- [http://www.clicktorelease.com/](http://www.clicktorelease.com/)
+- [clicktorelease.com](http://www.clicktorelease.com/)
 
 ## Procedural & Algorithmic 
 
