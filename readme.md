@@ -9,20 +9,17 @@ Below is a list of awesome and inspiring interactive experiences. This list is a
 
 ### Immersive Experiences
 
-- [Black Ice](http://void.hi-res.net/blackice) by hi-res
+![html5](media/html5.png) [Black Ice](http://void.hi-res.net/blackice) by hi-res
 
 ### Experiments
 
-- [Black Ribbons](http://grgrdvrt.com/miam/sweet_dream/) by grgrdvrt
-- [Realtime Delaunay Triangulation](http://codepen.io/marais/pen/obErWq) by Marais Rossouw
-- [Particles](http://codepen.io/antoniskamamis/pen/ECrKd) by Antonis Kamamis
-- [motion graphic typeface #1](http://codepen.io/ara_node/pen/nuJCG) by ara
-- [motion graphic typeface #2](http://codepen.io/ara_node/pen/EwfpL) by ara
-- [30,000 Particles](http://codepen.io/soulwire/pen/Ffvlo) by Justin Windle
-
-## Inspirational Flash
-
-- [Digital Toy1 : Missing Link](http://roxik.com/v/5/) by Roxik
+![html5](media/html5.png) [Black Ribbons](http://grgrdvrt.com/miam/sweet_dream/) by grgrdvrt  
+![html5](media/html5.png) [Realtime Delaunay Triangulation](http://codepen.io/marais/pen/obErWq) by Marais Rossouw  
+![html5](media/html5.png) [Particles](http://codepen.io/antoniskamamis/pen/ECrKd) by Antonis Kamamis  
+![html5](media/html5.png) [motion graphic typeface #1](http://codepen.io/ara_node/pen/nuJCG) by ara  
+![html5](media/html5.png) [motion graphic typeface #2](http://codepen.io/ara_node/pen/EwfpL) by ara  
+![html5](media/html5.png) [30,000 Particles](http://codepen.io/soulwire/pen/Ffvlo) by Justin Windle  
+![html5](media/flash.png) [Digital Toy1 : Missing Link](http://roxik.com/v/5/) by Roxik  
 
 ## Awesome Interactive Developers
 
