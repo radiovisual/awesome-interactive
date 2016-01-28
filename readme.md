@@ -1,15 +1,21 @@
 # awesome-interactive
 A curated list of awesome interactive web experiences and resources
 
-## Awesome Interactive Expereinces
+Below is a list of awesome and inspiring interactive experiences. This list is a combination of award-winning immerisve expreinces as well as hidden awesomeness and interactive gems buried deep within the interwebs. We don't discrimate against awesome technologies, so this collection can contain interactive Flash, Javascript, Processing, anything at all. 
 
-- [Black Ice](http://void.hi-res.net/blackice) by hi-res
+*If you would like to see something added to this list. Please [send a pull request](https://github.com/radiovisual/awesome-interactive/pulls), or [open an issue](https://github.com/radiovisual/awesome-interactive/issues).* 
 
 ## Inspirational WebGL & Interactive
 
-- [Black Ribbons](http://grgrdvrt.com/miam/sweet_dream/)
+### Experiences
 
-## Codepens
+- [Black Ice](http://void.hi-res.net/blackice) by hi-res
+
+### Experiments
+
+- [Black Ribbons](http://grgrdvrt.com/miam/sweet_dream/) by grgrdvrt
+
+### Codepens
 
 - [Realtime Delaunay Triangulation](http://codepen.io/marais/pen/obErWq) by Marais Rossouw
 - [Particles](http://codepen.io/antoniskamamis/pen/ECrKd) by Antonis Kamamis
