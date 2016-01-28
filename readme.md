@@ -11,6 +11,7 @@ A curated list of awesome interactive web experiences and resources
 
 ## Codepens
 
+- [Realtime Delaunay Triangulation](http://codepen.io/marais/pen/obErWq) by Marais Rossouw
 - [Particles](http://codepen.io/antoniskamamis/pen/ECrKd) by Antonis Kamamis
 - [motion graphic typeface #1](http://codepen.io/ara_node/pen/nuJCG) by ara
 - [motion graphic typeface #2](http://codepen.io/ara_node/pen/EwfpL) by ara
