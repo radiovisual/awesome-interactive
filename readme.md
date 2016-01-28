@@ -26,7 +26,12 @@ A curated list of awesome interactive web experiences and resources
 - [Yugo Nakamura](http://www.yugop.com/)
 - [GrgrDvrt](http://grgrdvrt.com/)
 - [clicktorelease.com](http://www.clicktorelease.com/)
+- [Karim Maaloul](http://codepen.io/Yakudoo/)
+- 
+## Creative Agencies
 
+- [epic.net](http://epic.net/eng/)
+- 
 ## Procedural & Algorithmic 
 
 - [inconvergent.net](http://inconvergent.net/)
