@@ -7,16 +7,13 @@ Below is a list of awesome and inspiring interactive experiences. This list is a
 
 ## Inspirational WebGL & Interactive
 
-### Experiences
+### Immersive Experiences
 
 - [Black Ice](http://void.hi-res.net/blackice) by hi-res
 
 ### Experiments
 
 - [Black Ribbons](http://grgrdvrt.com/miam/sweet_dream/) by grgrdvrt
-
-### Codepens
-
 - [Realtime Delaunay Triangulation](http://codepen.io/marais/pen/obErWq) by Marais Rossouw
 - [Particles](http://codepen.io/antoniskamamis/pen/ECrKd) by Antonis Kamamis
 - [motion graphic typeface #1](http://codepen.io/ara_node/pen/nuJCG) by ara
