@@ -1,4 +1,4 @@
-# awesome-interactive
+# Awesome Interactive
 > A curated list of awesome interactive web experiences and resources
 
 Below is a list of awesome and inspiring interactive experiences. This list is a combination of award-winning immerisve expreinces as well as hidden awesomeness and interactive gems buried deep within the interwebs. We don't discrimate against awesome technologies, so this collection can contain interactive Flash, Javascript, Processing, anything at all. 
