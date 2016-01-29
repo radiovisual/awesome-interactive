@@ -1,7 +1,7 @@
 # Awesome Interactive
 > A curated list of awesome interactive web experiences and resources
 
-Below is a list of awesome and inspiring interactive experiences. This list is a combination of award-winning immerisve expreinces as well as hidden awesomeness and interactive gems buried deep within the interwebs. We don't discrimate against awesome, so if it's awesome and interactive, it doesn't matter what technology was used to create it: Flash, Javascript, Processing, CSS3 ...*it's all awesome!* 
+Below is a list of awesome and inspiring interactive experiences. This list is a combination of award-winning immersive experiences as well as hidden awesomeness and interactive gems buried deep within the interwebs. We don't discriminate against awesome, so if it's awesome and interactive, it doesn't matter what technology was used to create it: Flash, Javascript, Processing, CSS3 ...*it's all awesome!* 
 
 *If you would like to see something added to this list. Please [send a pull request](https://github.com/radiovisual/awesome-interactive/pulls), or [open an issue](https://github.com/radiovisual/awesome-interactive/issues).* 
 
