@@ -46,6 +46,12 @@ Below is a list of awesome and inspiring interactive experiences. This list is a
 
 - [Chrome experiments](https://www.chromeexperiments.com/)
 
+### Generative Art
+
+These entries aren't interactive, but these artists use awesome interactive/generative techniques to create awesome art. 
+
+- [Erik Natzke](http://blog.natzke.com/) | [Flickr](https://www.flickr.com/photos/natzke/albums)
+
 ### Learning WebGL
 
 - [WebGL Fundamentals](http://webglfundamentals.org/)
