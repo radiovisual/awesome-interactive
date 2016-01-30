@@ -33,6 +33,7 @@ Below is a list of awesome and inspiring interactive experiences. This list is a
 - [GrgrDvrt](http://grgrdvrt.com/)
 - [clicktorelease.com](http://www.clicktorelease.com/)
 - [Karim Maaloul](http://codepen.io/Yakudoo/)
+- [Jared Tarbell](http://levitated.net/gravityIndex.html)
 
 ## Creative Agencies
 
