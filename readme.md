@@ -27,10 +27,10 @@ Below is a list of awesome and inspiring interactive experiences. This list is a
 ![html5](media/html5.png) [motion graphic typeface #2](http://codepen.io/ara_node/pen/EwfpL) by ara  
 ![html5](media/html5.png) [30,000 Particles](http://codepen.io/soulwire/pen/Ffvlo) by Justin Windle  
 ![html5](media/flash.png) [Digital Toy1 : Missing Link](http://roxik.com/v/5/) by Roxik  
-![html5](media/flash.png) [Magic Dust](http://mrdoob.com/#/144/magic_dust) by [Mr.doob](http://mrdoob.com/)  
-![html5](media/flash.png) [Constraint](http://www.edankwan.com/experiments/constraint/) by [Edan Kwan](http://www.edankwan.com/)  
-![html5](media/flash.png) [The Spirit](http://www.edankwan.com/experiments/the-spirit/) by [Edan Kwan](http://www.edankwan.com/)  
-![html5](media/flash.png) [Smashing Mega Scene](http://www.edankwan.com/experiments/smashing-mega-scene/) by [Edan Kwan](http://www.edankwan.com/)  
+![html5](media/html5.png) [Magic Dust](http://mrdoob.com/#/144/magic_dust) by [Mr.doob](http://mrdoob.com/)  
+![html5](media/html5.png) [Constraint](http://www.edankwan.com/experiments/constraint/) by [Edan Kwan](http://www.edankwan.com/)  
+![html5](media/html5.png) [The Spirit](http://www.edankwan.com/experiments/the-spirit/) by [Edan Kwan](http://www.edankwan.com/)  
+![html5](media/html5.png) [Smashing Mega Scene](http://www.edankwan.com/experiments/smashing-mega-scene/) by [Edan Kwan](http://www.edankwan.com/)  
 ![html5](media/html5.png) ["dataworld" by xplsv](http://mrdoob.com/#/156/dataworld)  
 ![html5](media/html5.png) ["Obsidian" by xplsv](http://mrdoob.com/#/152/obsidian)  
 ![html5](media/html5.png) [Starfluid](http://jotrdl.github.io/experiments/starfluid/)  
