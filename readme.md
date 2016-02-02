@@ -31,8 +31,8 @@ Below is a list of awesome and inspiring interactive experiences. This list is a
 ![html5](media/html5.png) [Constraint](http://www.edankwan.com/experiments/constraint/) by [Edan Kwan](http://www.edankwan.com/)  
 ![html5](media/html5.png) [The Spirit](http://www.edankwan.com/experiments/the-spirit/) by [Edan Kwan](http://www.edankwan.com/)  
 ![html5](media/html5.png) [Smashing Mega Scene](http://www.edankwan.com/experiments/smashing-mega-scene/) by [Edan Kwan](http://www.edankwan.com/)  
-![html5](media/html5.png) ["dataworld" by xplsv](http://mrdoob.com/#/156/dataworld)  
-![html5](media/html5.png) ["Obsidian" by xplsv](http://mrdoob.com/#/152/obsidian)  
+![html5](media/html5.png) [Dataworld](http://mrdoob.com/#/156/dataworld) by xplsv
+![html5](media/html5.png) [Obsidian](http://mrdoob.com/#/152/obsidian) by xplsv
 ![html5](media/html5.png) [Starfluid](http://jotrdl.github.io/experiments/starfluid/)  
 ![html5](media/html5.png) [Loom](http://www.binaura.net/loom/?mode=editor)  
 
