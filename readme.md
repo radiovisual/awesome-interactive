@@ -81,6 +81,11 @@ These entries aren't interactive, but these artists use awesome interactive/gene
 
 - [WebGL Fundamentals](http://webglfundamentals.org/)
 
+#### Interactive Tech
+
+- [threejs.org](http://threejs.org/)
+- [processing.org/](https://processing.org/)
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
