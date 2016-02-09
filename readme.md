@@ -5,7 +5,6 @@ Below is a list of awesome and inspiring interactive experiences. This list is a
 
 *If you would like to see something added to this list. Please [send a pull request](https://github.com/radiovisual/awesome-interactive/pulls), or [open an issue](https://github.com/radiovisual/awesome-interactive/issues).* 
 
-
 ### Immersive Experiences
 
 ![html5](media/html5.png) [The Wilderness Downtown](http://www.thewildernessdowntown.com/) by Mr.doob & Chrome Dev Team  
@@ -40,7 +39,6 @@ Below is a list of awesome and inspiring interactive experiences. This list is a
 
 ![html5](media/html5.png) [Message Design Center](http://www.mdcenter.co.jp/) | Awesome Motion Typography  
 ![html5](media/html5.png) [The Network Effect](http://networkeffect.io/nod) | Crazy, but Cool Nod-tracking  
-
 
 ### Awesome Interactive Developers
 
