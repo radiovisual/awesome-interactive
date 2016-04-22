@@ -78,6 +78,7 @@ These entries aren't interactive, but these artists use awesome interactive/gene
 #### Learning WebGL
 
 - [WebGL Fundamentals](http://webglfundamentals.org/)
+- [WebGL: Up and Running](http://shop.oreilly.com/product/0636920024729.do)
 
 #### Interactive Tech
 
