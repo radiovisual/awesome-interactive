@@ -19,7 +19,7 @@ Below is a list of awesome and inspiring interactive experiences. This list is a
 
 ### Experiments & Demos
 
-![html5](media/html5.png) [The Polygon Shredder](https://www.clicktorelease.com/code/polygon-shredder/)  
+![html5](media/html5.png) [The Polygon Shredder](https://www.clicktorelease.com/code/polygon-shredder/) by [Jaume Sanchez Elias](https://twitter.com/thespite)  
 ![html5](media/html5.png) [Black Ribbons](http://grgrdvrt.com/miam/sweet_dream/) by grgrdvrt  
 ![html5](media/html5.png) [Realtime Delaunay Triangulation](http://codepen.io/marais/pen/obErWq) by Marais Rossouw  
 ![html5](media/html5.png) [Particles](http://codepen.io/antoniskamamis/pen/ECrKd) by Antonis Kamamis  
